@@ -33,6 +33,8 @@ The dataset contains information from 1,000 crowdfunding campaigns, including:
 
 The dataset was used for educational and analytical purposes.
 
+![A table contains a database of 1,000 sample crowdfunding projects.](https://static.bc-edx.com/data/dl-1-2/m1/lms/img/FullTable.jpg)
+
 # Analysis & Features
 
 ## Data Cleaning & Transformation
