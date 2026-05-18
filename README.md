@@ -1,3 +1,5 @@
+<div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m1/lms/img/banner.jpg" alt="lesson banner" />
+
 # Crowdfunding Campaign Analysis
 
 ## Overview
