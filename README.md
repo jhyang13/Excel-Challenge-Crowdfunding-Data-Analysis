@@ -8,6 +8,8 @@ This project explores trends and success patterns in crowdfunding campaigns usin
 
 The objective of this analysis is to identify factors that may influence campaign success by examining funding goals, campaign categories, launch timing, and supporter behavior. The project combines data cleaning, statistical analysis, pivot-table reporting, and data visualization techniques using Microsoft Excel.
 
+---
+
 # Project Goals
 
 The main goals of this project are to:
@@ -18,6 +20,8 @@ The main goals of this project are to:
 - Evaluate supporter engagement through backer statistics
 - Visualize trends using charts and pivot tables
 - Practice data analysis and reporting workflows using Excel
+
+---
 
 # Dataset
 
@@ -35,6 +39,8 @@ The dataset was used for educational and analytical purposes.
 
 ![A table contains a database of 1,000 sample crowdfunding projects.](https://static.bc-edx.com/data/dl-1-2/m1/lms/img/FullTable.jpg)
 
+---
+
 # Analysis & Features
 
 ## Data Cleaning & Transformation
@@ -46,6 +52,8 @@ Performed data preprocessing tasks including:
 - Calculating:
   - Percentage funded
   - Average donation per backer
+
+---
 
 ## Campaign Outcome Analysis
 
@@ -62,6 +70,8 @@ Created:
 - Line charts
 - Pivot-table dashboards
 
+---
+
 ## Goal-Based Funding Analysis
 
 Analyzed how funding goals impact campaign outcomes by grouping projects into different goal ranges and comparing:
@@ -71,6 +81,8 @@ Analyzed how funding goals impact campaign outcomes by grouping projects into di
 - Cancellation rates
 
 Used statistical summaries and line charts to identify trends between funding targets and campaign performance.
+
+---
 
 ## Statistical Analysis
 
@@ -84,6 +96,8 @@ Compared successful and unsuccessful campaigns using backer statistics, includin
 
 This analysis helped evaluate supporter behavior and variability between campaign outcomes.
 
+---
+
 # Tools & Technologies
 
 - Microsoft Excel
@@ -93,6 +107,8 @@ This analysis helped evaluate supporter behavior and variability between campaig
 - Statistical Functions
 - Data Visualization Techniques
 
+---
+
 # Key Insights
 
 Some major findings from this project include:
@@ -101,6 +117,8 @@ Some major findings from this project include:
 - Certain categories consistently showed higher success rates.
 - Successful campaigns generally attracted significantly more backers and higher average donations.
 - Launch timing and category selection appeared to influence campaign performance.
+
+---
 
 # Disclaimer
 
